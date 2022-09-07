@@ -1,0 +1,6 @@
+.pio
+.vscode
+platformio.exe
+PlatformIoProject/data/
+venv/
+__pycache__/
